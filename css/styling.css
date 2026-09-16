@@ -2,7 +2,7 @@
 html {
     /* background-color:rgb(255, 253, 240); */
     /* background-color:rgb(253, 250, 229); */
-    background-color: #cad5ae;
+    background-color: #b6c19a;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -21,11 +21,12 @@ h2 {
 }
 
 p {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .textbox {
     padding: 40px 60px;
+    color: #32320f;
 }
 
 .center {
@@ -66,9 +67,9 @@ p {
     width: 250px;
     height: 250px;
     background-color: #f3e5c8;
-    border: 3px;
+    border: 5px;
     border-style: solid;
-    border-color: #e0d2b0;
+    border-color: #606039;
     
     align-items: center;
     justify-content: center;
@@ -96,12 +97,12 @@ p {
 
 header, footer {
 background-color: #747449;
-color: #c5c548;
+color: #FFCC00;
 }
 header {
     position: sticky;
     top: 0;
-    padding: 20px 15%;
+    padding: 20px 10%;
 }
 footer {
     display: flex;

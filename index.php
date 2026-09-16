@@ -8,7 +8,8 @@
 </head>
 <body>
     <header>
-        <h1>De Curio opleiding!</h1>
+        <h1>De Software Development opleiding!</h1>
+        <h2>Bij Curio</h2>
     </header>
 
     <main>
